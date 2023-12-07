@@ -3568,3 +3568,401 @@ http://mol-2.com:8080/play/movie.php?mac=00:1A:79:AA:76:83&stream=621722.mkv&pla
 http://mol-2.com:8080/play/movie.php?mac=00:1A:79:AA:76:83&stream=621651.mkv&play_token=O3mi3eHjLt&type=movie&sn2=
 #EXTINF:-1 tvg-id="" tvg-name="FR| Informateur confidentiel" tvg-logo="" group-title="FR| NOUVEAUTES-2023", FR| Informateur confidentiel
 http://mol-2.com:8080/play/movie.php?mac=00:1A:79:AA:76:83&stream=596199.mkv&play_token=cHFUuWWtLA&type=movie&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="Jumanji: The Next Level HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Jumanji: The Next Level HD
+http://109.236.81.45/vod/FRANCEM/fr13.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wonder Woman 1984 VOSTFR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Wonder Woman 1984 VOSTFR (2020) HD
+http://54.39.100.236/FR.MOV/F40.mp4
+#EXTINF:-1 tvg-id="" tvg-name="FR-Balle perdue 2   (2022)- HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", FR-Balle perdue 2   (2022)- HD
+http://vod37.xyz/vod/E/811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Outside the Wire (2021) HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Outside the Wire (2021) HD # FR
+http://vod37.xyz/vod/FR.MO/21.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Le Voyage du Dr Dolittle # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Le Voyage du Dr Dolittle # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR72.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Small Engine Repair (2021) HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Small Engine Repair (2021) HD # FR
+http://54.39.100.236/FR.MOV/6.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Belle d'Automne (2021)  HD  # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Belle d'Automne (2021)  HD  # FR
+http://54.39.100.236/FR.MOV/2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Marilyn A Les Yeux Noirs (2021) HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Marilyn A Les Yeux Noirs (2021) HD # FR
+http://54.39.100.236/FR.MOV/2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Délicieux (2021) HD  # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Délicieux (2021) HD  # FR
+http://54.39.100.236/FR.MOV/44.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sweet Girl (2021) - NF" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Sweet Girl (2021) - NF
+http://vod37.xyz/vod/FR.MO/148.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jojo Rabbi (2019)  HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Jojo Rabbi (2019)  HD # FR
+http://vod37.xyz/vod/FR.MO/6576.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chamboultout (2019) HD  # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Chamboultout (2019) HD  # FR
+http://vod37.xyz/vod/FR.MO/6551.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BAC Nord (2021) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", BAC Nord (2021) HD
+http://vod37.xyz/vod/FR.MO/502.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anna (2019) # FR HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Anna (2019) # FR HD
+http://vod37.xyz/vod/FR.MO/FR204.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ad Astra (2019) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Ad Astra (2019) HD
+http://vod37.xyz/vod/FR.MO/FR200.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cruella (2021) - Disney+ HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Cruella (2021) - Disney+ HD # FR
+http://185.165.242.204/FrenchMovies/1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Security (2021) HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Security (2021) HD # FR
+http://vod37.xyz/vod/FR.MO/300.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wildland (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Wildland (2020) HD
+http://vod37.xyz/vod/FR.MO/301.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Night in Miami... (2020)" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", One Night in Miami... (2020)
+http://vod37.xyz/vod/FR.MO/F716.mp4
+#EXTINF:-1 tvg-id="" tvg-name="FR: The Neighbor in the Window (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", FR: The Neighbor in the Window (2020) HD
+http://vod37.xyz/vod/FR.MO/F712.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adú (2020) HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Adú (2020) HD # FR
+http://vod37.xyz/vod/FR.MO/F710.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Je sais ce que tu m’as fais (2021) HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Je sais ce que tu m’as fais (2021) HD # FR
+http://vod37.xyz/vod/FR.MO/F704.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Superintelligence (2020) HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Superintelligence (2020) HD # FR
+http://vod37.xyz/vod/FR.MO/F706.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Modern Persuasion (2020) HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Modern Persuasion (2020) HD # FR
+http://vod37.xyz/vod/FR.MO/F708.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SAS: Red Notice (2021) HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", SAS: Red Notice (2021) HD # FR
+http://vod37.xyz/vod/FR.MO/F702.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fearless Faith (2020) HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Fearless Faith (2020) HD # FR
+http://vod37.xyz/vod/FR.MO/F703.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Mission (2020) HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", La Mission (2020) HD # FR
+http://vod37.xyz/vod/FR.MO/F700.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kağıttan Hayatlar (2021) HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Kağıttan Hayatlar (2021) HD # FR
+http://vod37.xyz/vod/FR.MO/68.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Swordsman (2020) HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", The Swordsman (2020) HD # FR
+http://vod37.xyz/vod/FR.MO/218.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Dark and the Wicked (2020) # FR HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", The Dark and the Wicked (2020) # FR HD
+http://vod37.xyz/vod/FR.MO/F20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kağıttan Hayatlar (2021) HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Kağıttan Hayatlar (2021) HD # FR
+http://vod37.xyz/vod/FR.MO/68.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Courier (2019) HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", The Courier (2019) HD # FR
+http://vod37.xyz/vod/FR.MO/106.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Operation Varsity Blues: The College Admissions Scandal" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Operation Varsity Blues: The College Admissions Scandal
+http://vod37.xyz/vod/FR.MO/224.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diablo Guardián (2019) HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Diablo Guardián (2019) HD # FR
+http://vod37.xyz/vod/FR.MO/222.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Seventh Day (2021) HD  # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", The Seventh Day (2021) HD  # FR
+http://vod37.xyz/vod/FR.MO/214.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Come True (2021) # FR HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Come True (2021) # FR HD
+http://vod37.xyz/vod/FR.MO/212.mp4
+#EXTINF:-1 tvg-id="" tvg-name="FR: Godzilla vs. Kong (2021)" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", FR: Godzilla vs. Kong (2021)
+http://vod37.xyz/vod/FR.MO/200.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Father (2020) # FR HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", The Father (2020) # FR HD
+http://vod37.xyz/vod/FR.MO/206.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Trip (2021) # FR HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Bad Trip (2021) # FR HD
+http://vod37.xyz/vod/FR.MO/210.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The United States vs. Billie Holiday (2021) HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", The United States vs. Billie Holiday (2021) HD # FR
+http://vod37.xyz/vod/FR.MO/216.mp4
+#EXTINF:-1 tvg-id="" tvg-name="30 jours max (2020 HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", 30 jours max (2020 HD # FR
+http://vod37.xyz/vod/FR.MO/134.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Death of a Ladies Man (2020) HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Death of a Ladies Man (2020) HD # FR
+http://vod37.xyz/vod/FR.MO/132.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sleeping with Danger (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Sleeping with Danger (2020) HD
+http://vod37.xyz/vod/FR.MO/130.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Centigrade (2020) HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Centigrade (2020) HD # FR
+http://vod37.xyz/vod/FR.MO/120.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Mortuary Collection (2019) HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", The Mortuary Collection (2019) HD # FR
+http://vod37.xyz/vod/FR.MO/118.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Finding Love in Mountain View (2020) HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Finding Love in Mountain View (2020) HD # FR
+http://vod37.xyz/vod/FR.MO/116.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amy You Can't Take My Daughter (2020) HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Amy You Can't Take My Daughter (2020) HD # FR
+http://vod37.xyz/vod/FR.MO/110.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vanguard (2020) HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Vanguard (2020) HD # FR
+http://vod37.xyz/vod/FR.MO/108.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Miss (2020) HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Miss (2020) HD # FR
+http://vod37.xyz/vod/FR.MO/114.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Host (2020) HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Host (2020) HD # FR
+http://vod37.xyz/vod/FR.MO/104.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breach (2020) HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Breach (2020) HD # FR
+http://vod37.xyz/vod/FR.MO/102.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Robert the Bruce (2019) HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Robert the Bruce (2019) HD # FR
+http://vod37.xyz/vod/FR.MO/112.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cherry (2021) HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Cherry (2021) HD # FR
+http://vod37.xyz/vod/FR.MO/76.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Yes Day (2021) - NF # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Yes Day (2021) - NF # FR
+http://vod37.xyz/vod/FR.MO/72.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Freaky (2020) HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Freaky (2020) HD # FR
+http://vod37.xyz/vod/FR.MO/64.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Nice Girl Like You (2020) HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", A Nice Girl Like You (2020) HD # FR
+http://vod37.xyz/vod/FR.MO/42.mp4
+#EXTINF:-1 tvg-id="" tvg-name="FR: Tom et Jerry (2021) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", FR: Tom et Jerry (2021) HD
+http://vod37.xyz/vod/FR.MO/50.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Last Tree (2021) HD VOSTFR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", The Last Tree (2021) HD VOSTFR
+http://vod37.xyz/vod/FR.MO/46.mp4
+#EXTINF:-1 tvg-id="" tvg-name="My Salinger Year (2021) HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", My Salinger Year (2021) HD # FR
+http://vod37.xyz/vod/FR.MO/38.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Little Things (2021) HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", The Little Things (2021) HD # FR
+http://vod37.xyz/vod/FR.MO/40.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sentinelle (2021)  HD - NF # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Sentinelle (2021)  HD - NF # FR
+http://vod37.xyz/vod/FR.MO/44.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coming 2 America (2021) HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Coming 2 America (2021) HD # FR
+http://vod37.xyz/vod/FR.MO/36.mp4
+#EXTINF:-1 tvg-id="" tvg-name="In a Relationship (2021) HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", In a Relationship (2021) HD # FR
+http://vod37.xyz/vod/FR.MO/30.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moxie (2021) HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Moxie (2021) HD # FR
+http://vod37.xyz/vod/FR.MO/28.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Mauritanian (2021) HD # VOSTFR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", The Mauritanian (2021) HD # VOSTFR
+http://vod37.xyz/vod/FR.MO/26.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Kid Detective (2020) HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", The Kid Detective (2020) HD # FR
+http://vod37.xyz/vod/FR.MO/24.mp4
+#EXTINF:-1 tvg-id="" tvg-name="FR: Locked Down (2021)" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", FR: Locked Down (2021)
+http://vod37.xyz/vod/FR.MO/15.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Run Hide Fight (2021) HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Run Hide Fight (2021) HD # FR
+http://vod37.xyz/vod/FR.MO/20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Narco Sub (2021) HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Narco Sub (2021) HD # FR
+http://vod37.xyz/vod/FR.MO/19.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alles is zoals het zou moeten zijn (2020) HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Alles is zoals het zou moeten zijn (2020) HD # FR
+http://vod37.xyz/vod/FR.MO/18.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fukushima 50 (2020) HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Fukushima 50 (2020) HD # FR
+http://vod37.xyz/vod/FR.MO/16.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Synchronic (2019)" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Synchronic (2019)
+http://vod37.xyz/vod/FR.MO/17.avi
+#EXTINF:-1 tvg-id="" tvg-name="Nadia, Butterfly (2020) HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Nadia, Butterfly (2020) HD # FR
+http://vod37.xyz/vod/FR.MO/13.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Puzzle (2018) # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Puzzle (2018) # FR
+http://vod37.xyz/vod/FR.MO/12.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Poly (2020) HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Poly (2020) HD # FR
+http://vod37.xyz/vod/FR.MO/11.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Seberg (2019) HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Seberg (2019) HD # FR
+http://vod37.xyz/vod/FR.MO/10.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Killer Prom (2020) HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Killer Prom (2020) HD # FR
+http://vod37.xyz/vod/FR.MO/9.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deadly Influencer (2019) HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Deadly Influencer (2019) HD # FR
+http://vod37.xyz/vod/FR.MO/8.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Loco por ella (2021) HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Loco por ella (2021) HD # FR
+http://vod37.xyz/vod/FR.MO/7.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paydirt (2020) HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Paydirt (2020) HD # FR
+http://vod37.xyz/vod/FR.MO/6.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Force of Nature (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Force of Nature (2020) HD
+http://vod37.xyz/vod/FR.MO/5.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All My Life (2020) HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", All My Life (2020) HD # FR
+http://vod37.xyz/vod/FR.MO/2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Music (2021) HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Music (2021) HD # FR
+http://vod37.xyz/vod/FR.MO/1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="L'enfant rêvé (2020) # FR HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", L'enfant rêvé (2020) # FR HD
+http://vod37.xyz/vod/FR.MO/f100.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Craft: Legacy (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", The Craft: Legacy (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR140.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Max Cloud (2020) # FR HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Max Cloud (2020) # FR HD
+http://vod37.xyz/vod/FR.MO/F26.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Archenemy (2020) # FR HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Archenemy (2020) # FR HD
+http://vod37.xyz/vod/FR.MO/F26.mp4
+#EXTINF:-1 tvg-id="" tvg-name="COVID-21: Lethal Virus (202) # FR HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", COVID-21: Lethal Virus (202) # FR HD
+http://vod37.xyz/vod/FR.MO/F24.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tony Parker: The Final Shot (2021) NF # FR HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Tony Parker: The Final Shot (2021) NF # FR HD
+http://vod37.xyz/vod/FR.MO/F3.mp4
+#EXTINF:-1 tvg-id="" tvg-name="West Side Story (2021) # FR HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", West Side Story (2021) # FR HD
+http://vod37.xyz/vod/FR.MO/F22.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chick Fight (2020) # FR HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Chick Fight (2020) # FR HD
+http://vod37.xyz/vod/FR.MO/F21.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Skylines (2020) # FR HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Skylines (2020) # FR HD
+http://vod37.xyz/vod/FR.MO/F19.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pieces of a Woman - NF (2020) # FR HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Pieces of a Woman - NF (2020) # FR HD
+http://vod37.xyz/vod/FR.MO/f12.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Le Comte de Bouderbala  2-  (2020)  # FR HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Le Comte de Bouderbala  2-  (2020)  # FR HD
+http://vod37.xyz/vod/FR.MO/F17.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fatale (2020) # FR HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Fatale (2020) # FR HD
+http://vod37.xyz/vod/FR.MO/F16.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breach (2020) # FR HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Breach (2020) # FR HD
+http://vod37.xyz/vod/FR.MO/F15.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Herself (2020) # FR HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Herself (2020) # FR HD
+http://vod37.xyz/vod/FR.MO/F10.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lux Æterna (2020) # FR HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Lux Æterna (2020) # FR HD
+http://vod37.xyz/vod/FR.MO/F13.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Man Who Killed Hitler and Then the Bigfoot # FR HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", The Man Who Killed Hitler and Then the Bigfoot # FR HD
+http://vod37.xyz/vod/FR.MO/f9.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lux Æterna (2020) # FR HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Lux Æterna (2020) # FR HD
+http://vod37.xyz/vod/FR.MO/F13.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Perfect Candidate (2019) # FR HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", The Perfect Candidate (2019) # FR HD
+http://vod37.xyz/vod/FR.MO/F14.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Come Away (2020) # FR HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Come Away (2020) # FR HD
+http://vod37.xyz/vod/FR.MO/F6.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Police (2020) # FR HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Police (2020) # FR HD
+http://vod37.xyz/vod/FR.MO/E1.avi
+#EXTINF:-1 tvg-id="" tvg-name="Happiest Season (2020) # FR HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Happiest Season (2020) # FR HD
+http://54.39.100.236/FR.MOV/F44.avi
+#EXTINF:-1 tvg-id="" tvg-name="Christmas on Ice (2020) # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Christmas on Ice (2020) # FR
+http://54.39.100.236/FR.MOV/F28.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Minuit dans l'univers (2020) # FR HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Minuit dans l'univers (2020) # FR HD
+http://109.236.81.45/vod/FRANCEM/FR134.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sacrées sorcières (2020) # FR HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Sacrées sorcières (2020) # FR HD
+http://109.236.81.45/vod/FRANCEM/FR126.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sylvie’s Love (2020) # FR HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Sylvie’s Love (2020) # FR HD
+http://109.236.81.45/vod/FRANCEM/FR136.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fatman (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Fatman (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR26.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Legacy of Lies (2020) # FR HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Legacy of Lies (2020) # FR HD
+http://109.236.81.45/vod/FRANCEM/FR124.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La odisea de los giles (2019) # FR HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", La odisea de los giles (2019) # FR HD
+http://109.236.81.45/vod/FRANCEM/FR152.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Vigil (2020) # FR HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", The Vigil (2020) # FR HD
+http://109.236.81.45/vod/FRANCEM/FR128.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Palm Springs (2020) # FR HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Palm Springs (2020) # FR HD
+http://109.236.81.45/vod/FRANCEM/FR144.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Boutchou (2020) # FR HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Boutchou (2020) # FR HD
+http://109.236.81.45/vod/FRANCEM/FR122.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The War with Grandpa (2020) # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", The War with Grandpa (2020) # FR
+http://54.39.100.236/FR.MOV/F12.avi
+#EXTINF:-1 tvg-id="" tvg-name="Guest of Honour (2020)  # FR HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Guest of Honour (2020)  # FR HD
+http://54.39.100.236/FR.MOV/F18.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ONDINE (2020) # FR HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", ONDINE (2020) # FR HD
+http://54.39.100.236/FR.MOV/F20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Professor And The Madman (2019) # FR HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", The Professor And The Madman (2019) # FR HD
+http://54.39.100.236/FR.MOV/F24.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Climb (2020) # FR HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", The Climb (2020) # FR HD
+http://54.39.100.236/FR.MOV/E26.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADN (2020) # FR HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", ADN (2020) # FR HD
+http://54.39.100.236/FR.MOV/F38.mp4
+#EXTINF:-1 tvg-id="" tvg-name="C'est nous, les héros (2020) # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", C'est nous, les héros (2020) # FR
+http://54.39.100.236/FR.MOV/F36.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Notre-Dame du Nil (2020) # FR HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Notre-Dame du Nil (2020) # FR HD
+http://54.39.100.236/FR.MOV/F6.mp4
+#EXTINF:-1 tvg-id="" tvg-name="My Birthday Romance (2020) HD # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", My Birthday Romance (2020) HD # FR
+http://54.39.100.236/FR.MOV/F5.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guest House (2020) #  FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Guest House (2020) #  FR
+http://54.39.100.236/FR.MOV/F3.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Borat Subsequent Moviefilm (2020) # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Borat Subsequent Moviefilm (2020) # FR
+http://54.39.100.236/FR.MOV/F1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Box (2020) # FR HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Black Box (2020) # FR HD
+http://54.39.100.236/FR.MOV/F15.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Enola Holmes (2020) - NF # FR" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Enola Holmes (2020) - NF # FR
+http://109.236.81.45/vod/FRANCEM/FR21.avi
+#EXTINF:-1 tvg-id="" tvg-name="Mulan (2020) # FR HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Mulan (2020) # FR HD
+http://54.39.100.236/FR.MOV/F7.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rupture fatale # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Rupture fatale # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR75.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Come to Daddy # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Come to Daddy # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR66.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Underwater # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Underwater # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR76.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Snatchers # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Snatchers # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR77.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nightmare Island # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Nightmare Island # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR62.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rogue Warfare 3 - La chute d'une nation # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Rogue Warfare 3 - La chute d'une nation # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR63.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sonic le film # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Sonic le film # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR64.mp4
+#EXTINF:-1 tvg-id="" tvg-name="À tous les garçons - P.S. Je t'aime toujours # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", À tous les garçons - P.S. Je t'aime toujours # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR65.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Birds of Prey et la fantabuleuse histoire de Harley Quinn # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Birds of Prey et la fantabuleuse histoire de Harley Quinn # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR67.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Timmy Failure: Mistakes Were Made # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Timmy Failure: Mistakes Were Made # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR68.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Horse Girl # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Horse Girl # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR69.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Gentlemen # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", The Gentlemen # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR70.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragonheart: Vengeance # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Dragonheart: Vengeance # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR71.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mode Avion # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Mode Avion # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR73.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Boys for Life # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Bad Boys for Life # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR74.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lost Girls # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Lost Girls # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR49.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Go Karts # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Go Karts # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR51.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Escape From Pretoria # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Escape From Pretoria # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR52.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spenser Confidential # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Spenser Confidential # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR53.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Invisible Man # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Invisible Man # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR55.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tous nos jours parfaits # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Tous nos jours parfaits # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR56.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Superman: Red Son # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Superman: Red Son # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR57.mp4
+#EXTINF:-1 tvg-id="" tvg-name="L’appel de la forêt. # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", L’appel de la forêt. # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR58.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Disturbing the Peace # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Disturbing the Peace # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR59.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sa dernière volonté # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Sa dernière volonté # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR60.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Isi & Ossi # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Isi & Ossi # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR61.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Une belle équipe # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Une belle équipe # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/27.mp4
+#EXTINF:-1 tvg-id="" tvg-name="10 jours sans maman # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", 10 jours sans maman # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/17.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chez moi # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Chez moi # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/18.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coffee & Kareem # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Coffee & Kareem # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/19.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elephant # FR ( 2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Elephant # FR ( 2020) HD
+http://109.236.81.45/vod/FRANCEM/20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jusqu'au déclin # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Jusqu'au déclin # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/21.mp4
+#EXTINF:-1 tvg-id="" tvg-name="L’appel de la forêt # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", L’appel de la forêt # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/22.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Le goût du vin # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Le goût du vin # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/23.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Le Lion # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Le Lion # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/24.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Hunt # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", The Hunt # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/25.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ultras # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Ultras # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/26.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lucky # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Lucky # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/28.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Papi Sitter # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Papi Sitter # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Banker # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", The Banker # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/30.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Forte # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Forte # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR47.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Terre et le sang # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", La Terre et le sang # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR46.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mine de rien # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Mine de rien # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR44.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Folie des hauteurs # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", La Folie des hauteurs # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR43.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Fille au bracelet # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", La Fille au bracelet # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR40.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sergio # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Sergio # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR41.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Last Full Measure # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", The Last Full Measure # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR39.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wendy # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Wendy # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR35.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un divan à Tunis # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Un divan à Tunis # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR38.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dangerous Lies # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Dangerous Lies # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR34.mp4
+#EXTINF:-1 tvg-id="" tvg-name="L'État sauvage # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", L'État sauvage # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR33.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Les vétos # FR (2019) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Les vétos # FR (2019) HD
+http://109.236.81.45/vod/FRANCEM/FR32.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Je ne rêve que de vous  # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Je ne rêve que de vous  # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR31.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All Day and a Night # FR (2020)" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", All Day and a Night # FR (2020)
+http://109.236.81.45/vod/FRANCEM/FR28.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Phénix # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Phénix # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR27.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Si tu savais… # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Si tu savais… # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR26.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tyler Rake (Extraction) # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Tyler Rake (Extraction) # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR22.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Radioactive # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Radioactive # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR25.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Night Clerk # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", The Night Clerk # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR23.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Photograph # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", The Photograph # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR19.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vivre sans eux # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Vivre sans eux # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wasp Network # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Wasp Network # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR18.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brahms: The Boy II (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Brahms: The Boy II (2020) HD
+http://109.236.81.45/vod/FRANCEM/fr16.mp4
+#EXTINF:-1 tvg-id="" tvg-name="5 è il numero perfetto HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", 5 è il numero perfetto HD
+http://109.236.81.45/vod/FRANCEM/fr12.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La guerre des boss # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", La guerre des boss # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR11.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Boys for Life # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Bad Boys for Life # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR10.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deux # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Deux # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR9.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un vrai bonhomme # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Un vrai bonhomme # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR8.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tigertail # FR (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Tigertail # FR (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR7.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Le prince oublié (2020) HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Le prince oublié (2020) HD
+http://109.236.81.45/vod/FRANCEM/FR6.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rocketman HD" tvg-logo="" group-title="VOD :  FRENCH LATEST MOVIES", Rocketman HD
+http://109.236.81.45/vod/FRANCEM/F5.mp4
